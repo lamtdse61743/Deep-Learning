@@ -1,2 +1,2 @@
-Frame,Behavior,Class,Distance (m),Timestamp (s),Event Time (system),Closest Person Distance (m)
-580,Box Appeared,box,1.06,19.33,2025-05-28 12:58:54,
+Event ID,Frame,Behavior,Class,Distance (m),Timestamp (s),Event Time (system),Closest Person Distance (m)
+6dff4d67-acc8-4b0d-a2eb-3968a2e6e713,580,Box Appeared,box,1.06,19.33,2025-05-31 22:50:45,

@@ -1,0 +1,3 @@
+Event ID,Frame,Behavior,Class,Distance (m),Timestamp (s),Event Time (system),Closest Person Distance (m)
+664440b3-128c-4e39-830a-5dbb5945f144,70,Face Recognized,Lam,,2.33,2025-05-31 23:30:31,
+18eb1374-4078-4ebe-8039-e35502437f19,235,Box Appeared,box,0.32,7.83,2025-05-31 23:30:48,
